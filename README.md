@@ -49,17 +49,29 @@ fn xiaojie_yahu() {
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaojie-yahu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaojie-yahu&show_icons=true&theme=tokyonight&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojie-yahu&layout=compact&theme=tokyonight&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
+
 </div>
 
+### ⚡ 贡献统计
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojie-yahu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaojie-yahu&theme=tokyonight&hide_border=true&locale=zh_Hans)](https://github.com/xiaojie-yahu)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaojie-yahu&theme=tokyo-night&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
+
 </div>
 
-### ⚡ 近期动态
+### 🏆 GitHub 奖杯
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaojie-yahu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiaojie-yahu&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/xiaojie-yahu)
+
 </div>
 
 ### 🌟 技能领域
