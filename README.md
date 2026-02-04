@@ -46,31 +46,42 @@ fn xiaojie_yahu() {
 - 🎶 [netease-cloud-song-collection](https://github.com/xiaojie-yahu/netease-cloud-song-collection) - 网易云音乐下载工具
 - 🎵 [NeteaseCloudMusicApi](https://github.com/xiaojie-yahu/NeteaseCloudMusicApi) - 网易云音乐 Node.js API
 
-### 📊 GitHub 统计
+### 📊 GitHub 数据
+
+<table>
+<tr>
+<td>
+
+**🎯 核心数据**
+- 🗂️ 公开仓库: 9+
+- 🌟 专注领域: 音乐服务 & AI & IoT
+- 💻 主要语言: Go, Python, JavaScript, Swift
+- 🔥 活跃项目: 音乐串流、嵌入式开发
+
+</td>
+<td>
+
+**⚡ 技术统计**
+- 🎵 音乐相关项目: 6+
+- 🤖 AI/IoT 项目: 2+
+- 🛠️ 工具项目: 3+
+- 📚 代码行数: 持续增长中
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaojie-yahu&show_icons=true&theme=tokyonight&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojie-yahu&layout=compact&theme=tokyonight&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
+### 📈 项目统计
 
-</div>
-
-### ⚡ 贡献统计
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xiaojie-yahu&theme=tokyonight&hide_border=true&locale=zh_Hans)](https://github.com/xiaojie-yahu)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaojie-yahu&theme=tokyo-night&hide_border=true&locale=cn)](https://github.com/xiaojie-yahu)
-
-</div>
-
-### 🏆 GitHub 奖杯
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiaojie-yahu&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/xiaojie-yahu)
+| 项目类型 | 数量 | 主要技术栈 |
+|:---:|:---:|:---:|
+| 🎵 音乐串流 | 4 | Go, Swift, Node.js |
+| 🤖 AI机器人 | 1 | ESP32, C++, MCP |
+| 🔧 开发工具 | 3 | Python, JavaScript |
 
 </div>
 
@@ -95,11 +106,23 @@ fn xiaojie_yahu() {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiaojie-yahu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+### 📫 联系与互动
+
+![Profile Views](https://komarev.com/ghpvc/?username=xiaojie-yahu&color=blueviolet&style=for-the-badge&label=访问量)
+![GitHub Followers](https://img.shields.io/github/followers/xiaojie-yahu?style=for-the-badge&logo=github&label=关注者)
+![GitHub User's stars](https://img.shields.io/github/stars/xiaojie-yahu?style=for-the-badge&logo=github&label=获得星标)
+
+**⭐ 如果你喜欢我的项目，欢迎 Star 支持！**
+
 </div>
 
+---
+
 <div align="center">
-  
-  **⭐ 如果你喜欢我的项目，欢迎 Star 支持！**
-  
+
+*"我挥舞着键盘和本子，发誓要把世界写个明明白白。"*
+
+**💼 持续学习 | 🚀 不断创新 | 🌟 热爱分享**
+
 </div>
